@@ -14,14 +14,14 @@ Sort by categories such as Food, Household Supplies, Electronics, Books, and Toy
 
 ### Login/Signup
 
-Login or sign up in order to checkout your purchase. The checkout option is only visible when you are signed in.
+Login or sign up in order to checkout your purchase.
 
 ![screencapture-masuamah-shop-shop-herokuapp-signup-2021-07-04-15_38_36](https://user-images.githubusercontent.com/77217156/124397735-b0fb2980-dcdf-11eb-99a9-6aade1f9fc23.png)
 
 ### Shopping Cart
 
 Easy access to your shopping cart as you add items. You can adjust product quantity and remove items. 
-As noted before the checkout option is only available when you are signed in.
+The checkout option is only available when you are signed in.
 
 ![screencapture-masuamah-shop-shop-herokuapp-2021-07-04-15_39_12](https://user-images.githubusercontent.com/77217156/124397666-49dd7500-dcdf-11eb-89a9-1459e95f1015.png)
 
